@@ -1,0 +1,21 @@
+# Course material is not redistributed in this repository
+*Project_Description*.pdf
+*Schema_Lecture*.pdf
+docs/handouts/
+
+# SQL Server / SSMS
+*.bak
+*.mdf
+*.ldf
+*.ndf
+*.trn
+*.suo
+*.user
+.vs/
+bin/
+obj/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
